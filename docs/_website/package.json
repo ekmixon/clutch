@@ -12,7 +12,7 @@
     "@docusaurus/plugin-debug": "^2.0.0-alpha",
     "@docusaurus/preset-classic": "^2.0.0-alpha",
     "classnames": "^2.2.6",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.25.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "remark-toc": "^7.0.0"
