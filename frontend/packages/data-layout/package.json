@@ -28,7 +28,7 @@
     "@clutch-sh/core": "^1.0.0-beta",
     "lodash": "^4.17.15",
     "react": "^16.8.0",
-    "react-dom": "^16.8.0",
+    "react-dom": "^19.1.0",
     "react-hook-thunk-reducer": "^0.2.1"
   },
   "devDependencies": {
